@@ -4,12 +4,13 @@ E-commerce platform for the buying and selling of previewable software, websites
     and seller collaboration is provisioned through a task management pipeline with file-system-based version control.
 
 
-Byte_Bazaar_Documentation
-
+Documentation
 
 Introduction
+
 ByteBazaar empowers users to buy, sell, and collaborate on digital products such as software, templates, and tools. By combining a collaborative work environment with a streamlined e-commerce experience, ByteBazaar is designed to foster innovation and affordability.
 The platform supports:
+1. 
 •	Buyers: Individuals or businesses looking for affordable and high-quality digital products.
 •	Sellers: Students, freelancers, and developers monetizing their skills.
 •	Collaborators: Group contributors working together on projects with clearly defined roles and earnings.
@@ -107,5 +108,6 @@ For any issues or inquiries:
 •	Phone: +234 906 410 8594
 •	Live Chat: Available on the Contact Us page.
 ByteBazaar is committed to providing a seamless experience for all users. We value your feedback and look forward to helping you achieve your goals on our platform!
+
   Live link: 
   http://169.239.251.102:4442/~doron.pela/bytebazaar/ 

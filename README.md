@@ -33,7 +33,10 @@ Navigating ByteBazaar is intuitive, with the following structure:
 For seamless browsing:
 •	Use the search bar in the header to quickly find products.
 •	Visit the Shop page for product categories and filtering options.
-•	Access your dashboard (for sellers and collaborators) for personalized tasks and financial tracking.4. Page-by-Page Guide
+•	Access your dashboard (for sellers and collaborators) for personalized tasks and financial tracking.
+
+3. Page-by-Page Guide:
+   
 Home Page
 •	Highlights featured products, latest uploads, and success stories.
 •	Contains quick links to Shop, About Us, and Contact pages.
@@ -65,7 +68,7 @@ Order Success Page
 Profile Page
 •	Allows users to update their personal details, payment information, and preferences.
 
-3. Key Features and Functionalities:
+4. Key Features and Functionalities:
    
 Search and Filtering
 •	Advanced search functionality to locate products by keywords, categories, and price ranges.
@@ -80,27 +83,27 @@ Group Selling
 Walleting System
 •	Integrated wallets allow secure deposits, withdrawals, and seamless transactions within the platform at seller profile page.
 
-4. Task Management and Group Selling:
+5. Task Management and Group Selling:
    
 ByteBazaar’s task management and group-selling features redefine collaboration:
 •	Task Management: Sellers can invite collaborators, assign roles (e.g., designer, developer), and track progress. Milestones ensure accountability.
 •	Group Selling: Earnings are distributed among contributors based on agreed-upon percentages. Sellers can manage disputes and communicate through the platform’s messaging system.
 
-5. Walleting and Payment Processing:
+6. Walleting and Payment Processing:
    
 The walleting system is central to ByteBazaar’s functionality:
 •	Adding Funds: Users can top-up wallets via secure payment gateways.
 •	Withdrawing Funds: Sellers can transfer earnings to bank accounts or other payment methods.
 •	Internal Transactions: Buyers can make purchases directly from their wallets, reducing dependency on third-party payment systems.
 
-6. Tips for Optimal Use:
+7. Tips for Optimal Use:
     
 •	Buyers: Utilize live previews and reviews to ensure product quality before purchasing.
 •	Sellers: Regularly update listings and maintain high-quality standards to build trust and credibility.
 •	Collaborators: Communicate clearly within task management tools to avoid misunderstandings.
 •	Everyone: Familiarize yourself with the platform’s terms of service and policies for smooth operations.
 
-7. Frequently Asked Questions (FAQs)
+8. Frequently Asked Questions (FAQs)
     
 How do I create an account?
 Visit the Sign-Up page and provide the required details. Choose your role (Buyer or Seller) during registration.
@@ -109,7 +112,7 @@ Refund policies depend on product type and seller agreements. Contact support fo
 How secure is my data?
 ByteBazaar uses advanced encryption and complies with GDPR and other data protection laws to ensure your information is secure.
 
-8. Support and Contact Information
+9. Support and Contact Information
     
 For any issues or inquiries:
 •	Email: support@bytebazaar.com
